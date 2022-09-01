@@ -47,16 +47,17 @@ ul {
 }
 
 .email {
-  background-color: #239b76;
+  margin-top: 20px;
+  background-color: #d5df1b;
 }
 
 .facebook {
-  background-color: #239b76;
+  background-color: #1921bb;
   margin-right: 50px;
 }
 
 .instagram {
-  background-color: #239b76;
+  background-color: #ab174b;
 }
 
 .pemubungkus-tombol {
